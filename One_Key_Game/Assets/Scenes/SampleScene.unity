@@ -228,7 +228,7 @@ GameObject:
   - component: {fileID: 1500896035}
   - component: {fileID: 1500896037}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: Counter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -425,7 +425,7 @@ GameObject:
   - component: {fileID: 1818766313}
   - component: {fileID: 1818766312}
   m_Layer: 5
-  m_Name: Button (Legacy)
+  m_Name: Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

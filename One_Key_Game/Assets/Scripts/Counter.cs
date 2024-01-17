@@ -20,6 +20,13 @@ public class Counter : MonoBehaviour
 
     public void AddScore()
     {
-        counter++;
+        if(counter < 10)
+        {
+            counter++;
+        }
+        else
+        {
+            Application.Quit();
+        }
     }
 }
